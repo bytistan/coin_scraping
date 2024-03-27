@@ -58,7 +58,7 @@ Your database should look like this
 
 ## Be careful when scraping data
 
-**What is Allowed:**
+### What is Allowed
 
 - [x] You can access publicly available data using the CoinMarketCap API.
 
@@ -66,7 +66,7 @@ Your database should look like this
 
 - [x] You can scrape data for personal use or non-commercial purposes.
 
-**What is Not Allowed:**
+### What is Not Allowed
 
 - [x] Excessive data scraping using automated bots or web scrapers.
 
